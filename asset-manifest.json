@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wizinews/static/css/main.ff89a968.chunk.css",
-    "main.js": "/wizinews/static/js/main.12f346a9.chunk.js",
-    "main.js.map": "/wizinews/static/js/main.12f346a9.chunk.js.map",
+    "main.js": "/wizinews/static/js/main.fe108244.chunk.js",
+    "main.js.map": "/wizinews/static/js/main.fe108244.chunk.js.map",
     "runtime-main.js": "/wizinews/static/js/runtime-main.700f5382.js",
     "runtime-main.js.map": "/wizinews/static/js/runtime-main.700f5382.js.map",
     "static/js/2.d7316334.chunk.js": "/wizinews/static/js/2.d7316334.chunk.js",
     "static/js/2.d7316334.chunk.js.map": "/wizinews/static/js/2.d7316334.chunk.js.map",
     "index.html": "/wizinews/index.html",
-    "precache-manifest.61d70c6d43ae279654baed09c4429ab6.js": "/wizinews/precache-manifest.61d70c6d43ae279654baed09c4429ab6.js",
+    "precache-manifest.8c954335403cf7223e654f02d0e6e0b1.js": "/wizinews/precache-manifest.8c954335403cf7223e654f02d0e6e0b1.js",
     "service-worker.js": "/wizinews/service-worker.js",
     "static/css/main.ff89a968.chunk.css.map": "/wizinews/static/css/main.ff89a968.chunk.css.map",
     "static/js/2.d7316334.chunk.js.LICENSE.txt": "/wizinews/static/js/2.d7316334.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.700f5382.js",
     "static/js/2.d7316334.chunk.js",
     "static/css/main.ff89a968.chunk.css",
-    "static/js/main.12f346a9.chunk.js"
+    "static/js/main.fe108244.chunk.js"
   ]
 }

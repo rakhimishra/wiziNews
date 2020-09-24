@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4465bb9d062ae09c4f13c87873248c2",
+    "revision": "aebacd9d54c4f744c05ce87cee93146d",
     "url": "/wizinews/index.html"
   },
   {
-    "revision": "a1719ea69275a733b083",
+    "revision": "03044c24a7c4985fc8f9",
     "url": "/wizinews/static/css/main.ff89a968.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wizinews/static/js/2.d7316334.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1719ea69275a733b083",
-    "url": "/wizinews/static/js/main.12f346a9.chunk.js"
+    "revision": "03044c24a7c4985fc8f9",
+    "url": "/wizinews/static/js/main.fe108244.chunk.js"
   },
   {
     "revision": "d097e59fd553b7fd5ad5",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wizinews/precache-manifest.61d70c6d43ae279654baed09c4429ab6.js"
+  "/wizinews/precache-manifest.8c954335403cf7223e654f02d0e6e0b1.js"
 );
 
 self.addEventListener('message', (event) => {

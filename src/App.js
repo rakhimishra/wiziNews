@@ -17,7 +17,7 @@ class App extends Component {
           <div className="title">
             <h1>Welcome to </h1>
             <h4>
-              <a href="https://newsapi.org/">  WiziNews 🔥{' '} </a>
+              <a >  WiziNews 🔥{' '} </a>
             </h4>
           </div>
 

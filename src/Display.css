@@ -43,14 +43,16 @@
 	padding: 5px;
 	margin: 10px 0;
 	border-bottom: 1px solid grey;
-	background-color:rgb(238, 238, 238)
+	background-color:rgb(216, 209, 209);
+	
 
 }
 
-.image {
-	padding-left: 1rem;
+.img {
+	/* padding-left: 1rem; */
 	width: 40%;
 	margin-bottom: 0;
+	box-shadow:  3px 3px 5px 6px rgb(216, 204, 204);
 }
 
 .cardsContainer img {

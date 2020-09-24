@@ -12,15 +12,16 @@
 	flex: 1;
 }
 
-.card:nth-child(odd) {
+/* .card:nth-child(odd) {
 	border-right: 1px solid grey;
-}
-
+} */
+/* 
 .card:nth-child(even) {
 	border-right: 1px solid white;
 	border-left: 1px solid grey;
 	margin-left: -1px;
-}
+	box-shadow: 0 1px 0 rgba(0, 0, 0,0.3);
+} */
 
 .author {
 	display: flex;

@@ -42,9 +42,12 @@ a {
 }
 
 .appHeader {
-  background-color: rgb(54, 46, 46);
+  /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGv2JuU8K0UZqPIQd2QFAiZm6NyuAGcMhrkg&usqp=CAU'); */
   padding: 20px;
-  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -76,4 +79,10 @@ body::-webkit-scrollbar-thumb {
   border-radius: 10px;
   box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
   background-color: #555;
+}
+.app{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEhPmGq9zMT8MPtZCzFTd66IoS3dXR-bNZ4A&usqp=CAU");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wizinews/static/css/main.0c9b0068.chunk.css",
+    "main.js": "/wizinews/static/js/main.f95fe397.chunk.js",
+    "main.js.map": "/wizinews/static/js/main.f95fe397.chunk.js.map",
+    "runtime-main.js": "/wizinews/static/js/runtime-main.700f5382.js",
+    "runtime-main.js.map": "/wizinews/static/js/runtime-main.700f5382.js.map",
+    "static/js/2.d7316334.chunk.js": "/wizinews/static/js/2.d7316334.chunk.js",
+    "static/js/2.d7316334.chunk.js.map": "/wizinews/static/js/2.d7316334.chunk.js.map",
+    "index.html": "/wizinews/index.html",
+    "precache-manifest.38bc1059d365fd810d5e01139dbc8e64.js": "/wizinews/precache-manifest.38bc1059d365fd810d5e01139dbc8e64.js",
+    "service-worker.js": "/wizinews/service-worker.js",
+    "static/css/main.0c9b0068.chunk.css.map": "/wizinews/static/css/main.0c9b0068.chunk.css.map",
+    "static/js/2.d7316334.chunk.js.LICENSE.txt": "/wizinews/static/js/2.d7316334.chunk.js.LICENSE.txt",
+    "static/media/react.svg": "/wizinews/static/media/react.c10c6d6d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.700f5382.js",
+    "static/js/2.d7316334.chunk.js",
+    "static/css/main.0c9b0068.chunk.css",
+    "static/js/main.f95fe397.chunk.js"
+  ]
+}
